@@ -1,4 +1,4 @@
-#  Pharmacy Medicines Canister
+#  Pharmacy Management System
 
 This project is a simple Canister built using TypeScript and the Azle framework to manage pharmacy medicines. It includes features for buying medicines, canceling orders, payment methods, checking order status, and listing orders.
 
